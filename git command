@@ -1,0 +1,4 @@
+git clone reponame
+git add .
+git commit -m "added files"
+git push origin main
