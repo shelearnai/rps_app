@@ -1,5 +1,7 @@
-tensorflow
-flask
+streamlit
+Pillow==9.0.0
+tensorflow-cpu
 numpy
-pillow
-keras
+pytest-shutil
+scikit-learn
+tensorflow
