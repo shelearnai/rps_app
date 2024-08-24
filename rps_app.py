@@ -14,7 +14,7 @@ from tensorflow.keras.preprocessing.image import load_img,img_to_array
 
 st.set_page_config(page_title='Rock Paper Scissor Classification')
 st.title('Rock Paper Scissor Classification')
-classlabel=['rock','paper','scissors']
+classlabel=['paper','rock','scissors']
 
 @st.cache(allow_output_mutation=True)
 def get_best_model():
